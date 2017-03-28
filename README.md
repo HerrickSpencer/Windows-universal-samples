@@ -1,5 +1,5 @@
 <!---
-  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=619979
+TEST  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=619979
 --->
 
 # Universal Windows Platform (UWP) app samples
